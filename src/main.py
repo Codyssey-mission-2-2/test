@@ -1,11 +1,5 @@
-import multiply
-
 def main():
-    a = int(input("a값: "))
-    b = int(input("b값: "))
-    result = multiply.Power1(a, b)
-    print(f"결과: {result}")
-    
+    print("Hello World")
+
 if __name__ == "__main__":
     main()
-    
