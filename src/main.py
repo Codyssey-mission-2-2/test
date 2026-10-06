@@ -1,7 +1,8 @@
 import multiply
 
 def main():
-    a = int(input("a값: ") )
+    a = int(input("abc 값: ") )
+    
     b = int(input("b값: "))
     result = multiply.Power1(a, b)
     print(f"결과: {result}")
