@@ -1,5 +1,3 @@
-import multiply
-
 def main():
     a = int(input("a값: "))
     b = int(input("b값: "))
