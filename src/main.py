@@ -1,5 +1,8 @@
 def main():
-    print("Hello World")
+    a = int(input("a값: "))
+    b = int(input("b값: "))
+    result = multiply.Power1(a, b)
+    print(f"결과: {result}")
 
 if __name__ == "__main__":
     main()
