@@ -202,14 +202,20 @@ Git에서는 작업 상황에 따라 적절한 명령어를 선택하는 것이 
 reset
 
 before
+
 <img width="757" height="301" alt="Image" src="https://github.com/user-attachments/assets/5c835b20-8b89-43b9-8ab5-9493b915502f" />
+
 after
+
 <img width="589" height="207" alt="Image" src="https://github.com/user-attachments/assets/9a7531da-49bf-4f6f-9d15-99b3077c48b7" />
 
 revert
 before
+
 <img width="770" height="628" alt="Image" src="https://github.com/user-attachments/assets/118e4492-1cc9-4222-9957-58218ae01ab4" />
+
 after
+
 <img width="770" height="613" alt="Image" src="https://github.com/user-attachments/assets/242abe01-ab14-40e0-b292-004f7e3f9811" />
 
 
