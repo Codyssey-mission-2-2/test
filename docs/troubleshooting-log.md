@@ -3,7 +3,7 @@
 ## 1. 실습 개요
 
 - **실습 주제:** Git 트러블슈팅 4종
-- **참여자:** 김병철
+- **참여자:** 김병철,김병헌, 안중현
 - **담당 역할:** Git 명령어 실습, 문제 해결, 실행 결과 확인 및 문서화
 - **실습 환경:** macOS, VS Code, Git, GitHub
 - **사용 브랜치:** `feature-multiply`, `practice/stash-test`
@@ -188,22 +188,19 @@ Git에서는 작업 상황에 따라 적절한 명령어를 선택하는 것이 
 
 ---
 
-## 7. 실습 증빙 자료
+## 7. 팀원별 실습 참여 및 역할
 
-- `m2_2_그래프(1).png`: Git 커밋 및 병합 이력
-- `m2_2_커밋 수정(1).png`: 커밋 로그 확인 (amend 결과 추가 확인 필요)
-- `m2_2_로컬커밋 취소(1).png`: reset --soft 명령어 실행
-- `m2_2M커밋 취소(1).png`: revert 커밋 및 push
-- `m2_2_stash pop 성공 화면.png`: stash pop 실행 성공
-- `스크린샷 2026-10-08 오후 3.37.49.png`: stash 복원 후 Git 상태 확인
+- 김병헌: git commit --amend (최근 커밋 메시지 수정) 
 
----
+<img width="2241" height="810" alt="Image" src="https://github.com/user-attachments/assets/f66caec5-6efa-4564-8368-4e98e81e62ce" />
 
-## 8. 팀원 참여 기록
+<img width="871" height="428" alt="Image" src="https://github.com/user-attachments/assets/df8cf8cc-7847-4aaa-af74-1d0347f219ea" />
 
-| 이름 | 담당 실습 | 역할 |
-|---|---|---|
-| 김병철 | revert, stash/pop, reset --soft | 명령어 실습, 결과 확인 및 기록 |
-| 추가 팀원 | 추후 기입 | 실습 및 해결 기록 참여 |
 
-**참고:** 팀원별 최소 1개 시나리오의 해결 기록에 실제로 참여한 이름과 역할을 추가해야 한다.
+- 안중현:  git reset --soft HEAD~1 (로컬 커밋 취소 + 변경 유지), git revert (원격에 push된 커밋 취소)
+
+- 김병철: git stash / git stash pop (작업 보관 후 전환): 김병철
+
+<img width="520" height="133" alt="Image" src="https://github.com/user-attachments/assets/43e06c30-8e3c-4af3-934e-e7fbebfbd8c1" />
+
+<img width="520" height="133" alt="Image" src="https://github.com/user-attachments/assets/d72e7672-42f1-4d3f-860f-efab9b7dfc17" />
