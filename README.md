@@ -33,7 +33,7 @@ Git과 GitHub를 활용하여 이슈 기반 작업, 브랜치 관리, Pull Reque
 | [팀원 2] | [작성 필요] | [작성 필요] | [작성 필요] | [작성 필요] |
 | [팀원 3] | [작성 필요] | [작성 필요] | [작성 필요] | [작성 필요] |
 
-팀원별 Issue, PR, 리뷰 및 반영 증빙은 [SUBMISSION.md](SUBMISSION.md)에 정리합니다.
+팀원별 Issue, PR, 리뷰 및 반영 증빙은 [SUBMISSION.md](docs/SUBMISSION.md)에 정리합니다.
 
 ## 3. 저장소 구성
 
@@ -42,7 +42,7 @@ Git과 GitHub를 활용하여 이슈 기반 작업, 브랜치 관리, Pull Reque
 | 경로 | 용도 |
 | --- | --- |
 | `README.md` | 프로젝트 소개, 결과물 안내 및 진행 현황 |
-| `SUBMISSION.md` | 팀원별 기여 내역과 증빙 링크 |
+| `docs/SUBMISSION.md` | 팀원별 기여 내역과 증빙 링크 |
 | `docs/` | 협업 문서 및 학습 기록 |
 | `docs/CONTRIBUTING.md` | 브랜치·커밋·PR·리뷰·충돌 대응 규칙 |
 | `docs/conflict-resolution.md` | 충돌 상황과 해결 과정 |
@@ -197,7 +197,7 @@ Closes #12
 - [협업 가이드](docs/CONTRIBUTING.md): 팀원이 분담하여 작성하는 브랜치·커밋·PR·리뷰·충돌 대응 규칙
 - [충돌 해결 기록](docs/conflict-resolution.md): 최소 2회의 충돌 해결 과정 및 증빙
 - [트러블슈팅 기록](docs/troubleshooting-log.md): 네 가지 Git 실습 및 팀원 참여 기록
-- [제출 및 기여 내역](SUBMISSION.md): 팀원별 내가 만든 Issue·PR, 리뷰, 반영 내역과 결과물 커밋 링크
+- [제출 및 기여 내역](docs/SUBMISSION.md): 팀원별 내가 만든 Issue·PR, 리뷰, 반영 내역과 결과물 커밋 링크
 
 ## 10. 제출 전 확인
 
