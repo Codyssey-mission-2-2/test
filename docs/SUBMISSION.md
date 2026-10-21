@@ -2,7 +2,6 @@
 
 ## Team
 
-- 팀명: [작성 필요]
 - 저장소: https://github.com/Codyssey-mission-2-2/test
 
 ## Member PRs
